@@ -14,5 +14,4 @@ My goal with this was to make a singleplayer map feel like you're on an empty Te
 
 ## How to use
 1. Include `jump_assets_\<TEAM\>.vmf` prefab into your map. [\<how to use the prefab\>](https://i.imgur.com/NYUIF99.png)
-2. Change every occurence of the file name `jump_MAPNAME` in `pack` with your map's name. [\<example\>](https://i.imgur.com/7QpK1bA.gif)
-3. Pack the folders inside `pack` with a tool like [VIDE](http://www.riintouge.com/VIDE) into your map. [\<should look like this in the end\>](https://i.imgur.com/TkblogP.png)
+2. Drag your compiled map file over `pack.bat` to apply the sound, particles & config overrides.
