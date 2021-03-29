@@ -1,0 +1,8 @@
+particles_manifest 
+{
+	file	"!particles/explosion.pcf"
+	file	"!particles/explosion_dx80.pcf"
+	file	"!particles/explosion_dx90_slow.pcf"
+	file	"!particles/explosion_high.pcf"
+	file	"!particles/blood_impact.pcf"
+}

@@ -1,0 +1,56 @@
+// Misc
+"BaseCombatCharacter.AmmoPickup" { "wave" "misc/null.wav" }
+"BaseExplosionEffect.Sound" { "wave" "misc/null.wav" }
+"BlastJump.Whistle" { "wave" "misc/null.wav" }
+"Player.FallDamage" { "wave" "misc/null.wav" }
+"Player.FallGib" { "wave" "misc/null.wav" }
+"Regenerate.Touch" { "wave" "misc/null.wav" }
+"Weapon_Grenade_Pipebomb.Explode" { "wave" "misc/null.wav" }
+"Weapon_Rocket_Jumper.Explode" { "wave" "misc/null.wav" }
+"Weapon_Sticky_Jumper.Explode" { "wave" "misc/null.wav" }
+
+// Soldier
+"Soldier.CritDeath" { "wave" "misc/null.wav" }
+"Soldier.Death" { "wave" "misc/null.wav" }
+"Soldier.ExplosionDeath" { "wave" "misc/null.wav" }
+"Soldier.MeleeDeath" { "wave" "misc/null.wav" }
+"Soldier.PainCrticialDeath01" { "wave" "misc/null.wav" }
+"Soldier.PainCrticialDeath02" { "wave" "misc/null.wav" }
+"Soldier.PainCrticialDeath03" { "wave" "misc/null.wav" }
+"Soldier.PainCrticialDeath04" { "wave" "misc/null.wav" }
+"Soldier.PainSevere01" { "wave" "misc/null.wav" }
+"Soldier.PainSevere02" { "wave" "misc/null.wav" }
+"Soldier.PainSevere03" { "wave" "misc/null.wav" }
+"Soldier.PainSevere04" { "wave" "misc/null.wav" }
+"Soldier.PainSevere05" { "wave" "misc/null.wav" }
+"Soldier.PainSevere06" { "wave" "misc/null.wav" }
+"Soldier.PainSharp01" { "wave" "misc/null.wav" }
+"Soldier.PainSharp02" { "wave" "misc/null.wav" }
+"Soldier.PainSharp03" { "wave" "misc/null.wav" }
+"Soldier.PainSharp04" { "wave" "misc/null.wav" }
+"Soldier.PainSharp05" { "wave" "misc/null.wav" }
+"Soldier.PainSharp06" { "wave" "misc/null.wav" }
+"Soldier.PainSharp07" { "wave" "misc/null.wav" }
+"Soldier.PainSharp08" { "wave" "misc/null.wav" }
+
+// Demoman
+"Demoman.CritDeath" { "wave" "misc/null.wav" }
+"Demoman.Death" { "wave" "misc/null.wav" }
+"Demoman.ExplosionDeath" { "wave" "misc/null.wav" }
+"Demoman.MeleeDeath" { "wave" "misc/null.wav" }
+"Demoman.PainCrticialDeath01" { "wave" "misc/null.wav" }
+"Demoman.PainCrticialDeath02" { "wave" "misc/null.wav" }
+"Demoman.PainCrticialDeath03" { "wave" "misc/null.wav" }
+"Demoman.PainCrticialDeath04" { "wave" "misc/null.wav" }
+"Demoman.PainCrticialDeath05" { "wave" "misc/null.wav" }
+"Demoman.PainSevere01" { "wave" "misc/null.wav" }
+"Demoman.PainSevere02" { "wave" "misc/null.wav" }
+"Demoman.PainSevere03" { "wave" "misc/null.wav" }
+"Demoman.PainSevere04" { "wave" "misc/null.wav" }
+"Demoman.PainSharp01" { "wave" "misc/null.wav" }
+"Demoman.PainSharp02" { "wave" "misc/null.wav" }
+"Demoman.PainSharp03" { "wave" "misc/null.wav" }
+"Demoman.PainSharp04" { "wave" "misc/null.wav" }
+"Demoman.PainSharp05" { "wave" "misc/null.wav" }
+"Demoman.PainSharp06" { "wave" "misc/null.wav" }
+"Demoman.PainSharp07" { "wave" "misc/null.wav" }
