@@ -1,0 +1,16 @@
+cfg/?.cfg
+overrides/cfg/map.cfg
+scripts/?_level_sounds.txt
+overrides/scripts/map_level_sounds.txt
+scripts/?_particles.txt
+overrides/scripts/map_particles.txt
+particles/blood_impact.pcf
+overrides/particles/blood_impact.pcf
+particles/explosion.pcf
+overrides/particles/explosion.pcf
+particles/explosion_dx80.pcf
+overrides/particles/explosion_dx80.pcf
+particles/explosion_dx90_slow.pcf
+overrides/particles/explosion_dx90_slow.pcf
+particles/explosion_high.pcf
+overrides/particles/explosion_high.pcf
