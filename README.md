@@ -13,5 +13,5 @@ My goal with this was to make a singleplayer map feel like you're on an empty Te
 - Config file that sets server cvars (no random crits / no random spread / no autobalance / etc.)
 
 ## How to use
-1. Include `jump_assets_\<TEAM\>.vmf` prefab into your map. [\<how to use the prefab\>](https://i.imgur.com/NYUIF99.png)
+1. Include `prefabs\jump_assets_<TEAM\.vmf` prefab into your map. [\<how to use the prefab\>](https://i.imgur.com/NYUIF99.png)
 2. Drag your compiled map file over `pack.bat` to apply the sound, particles & config overrides.
