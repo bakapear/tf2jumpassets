@@ -1,9 +1,9 @@
 cfg/?.cfg
 overrides/cfg/map.cfg
-scripts/?_level_sounds.txt
-overrides/scripts/map_level_sounds.txt
-scripts/?_particles.txt
-overrides/scripts/map_particles.txt
+maps/?_level_sounds.txt
+overrides/maps/map_level_sounds.txt
+maps/?_particles.txt
+overrides/maps/map_particles.txt
 particles/blood_impact.pcf
 overrides/particles/blood_impact.pcf
 particles/explosion.pcf
