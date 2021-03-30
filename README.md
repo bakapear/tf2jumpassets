@@ -8,8 +8,8 @@ My goal with this was to make a singleplayer map feel like you're on an empty Te
 - Constant health regen (demo can still die from 3 stickies tho)
 - Force player team to either RED or BLU
 - Instant respawn
-- Disabled specific sounds (pain / resupply / falldamage / etc.)
-- Disabled specific particles (explosions & blood impact thing )
+- Disables specific sounds (pain / resupply / falldamage / etc.)
+- Disables specific particles (explosions & blood impact thing)
 - Config file that sets server cvars (no random crits / no random spread / no autobalance / etc.)
 
 ## How to use
