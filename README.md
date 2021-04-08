@@ -9,8 +9,8 @@ My goal with this was to make a singleplayer map feel like you're on an empty Te
 - Force player team to either RED or BLU
 - Instant respawn
 - Disables specific sounds (pain / resupply / falldamage / etc.)
-- Disables specific particles (explosions & blood impact thing)
-- Config file that sets server cvars (no random crits / no random spread / no autobalance / etc.)
+- Disables specific particles (explosions / blood / etc.)
+- Config file that sets server cvars (no random crits / no random spread / no autobalance / etc.) \<not working\>
 
 ## How to use
 1. [Download](https://github.com/bakapear/jumpassets/archive/refs/heads/main.zip) and extract this repository.
