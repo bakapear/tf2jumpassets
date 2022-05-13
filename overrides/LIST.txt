@@ -1,5 +1,3 @@
-cfg/?.cfg
-overrides/cfg/map.cfg
 maps/?_level_sounds.txt
 overrides/maps/map_level_sounds.txt
 maps/?_particles.txt
