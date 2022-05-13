@@ -13,5 +13,6 @@ My goal with this was to make a singleplayer map feel like you're on an empty Te
 
 ## How to use
 1. [Download](https://github.com/bakapear/jumpassets/archive/refs/heads/main.zip) and extract this repository.
-2. Include `prefabs\jump_assets_<TEAM>.vmf` prefab into your map. [\<how to use the prefab\>](https://i.imgur.com/NYUIF99.png)
+2. Include `prefabs\jump_assets_<TEAM>.vmf` prefab into your map. [\<how to use the prefab\>](https://user-images.githubusercontent.com/13366049/168323358-7b19c1a8-589a-403a-a1d0-a6b43e48535f.png)
+
 3. Drag your compiled map file over `pack.bat` to apply the sound & particle overrides.
