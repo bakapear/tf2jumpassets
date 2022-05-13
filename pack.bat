@@ -1,6 +1,7 @@
 @echo off
 cd %~dp0
-set bsp=overrides\bin\bspzip.exe
+set bsp=overrides\bsp\bspzip.exe
+set bsp_dir=overrides\bsp
 set list=overrides\LIST.txt
 set tmp=overrides\tmp.txt
 set map=%1
@@ -13,5 +14,5 @@ for %%f in ("%map%") do set name=%%~nf
         endlocal
 )) > "%tmp%"
 
-"%bsp%" -addlist %map% "%tmp%" %map%
+"%bsp%" -game "%bsp_dir%" -addlist %map% "%tmp%" %map%
 del "%~dp0%tmp%"
